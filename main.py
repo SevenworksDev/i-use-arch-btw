@@ -1,9 +1,5 @@
 import requests, base64, gzip, itertools, hashlib, random, time
 
-print("dont use this yet, arch exists btw so use it!")
-input("Press enter to continue...")
-sys.exit()
-
 username = "iusearchbtw"
 password = "arch-btw99"
 accountID = "23725858"
